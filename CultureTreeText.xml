@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CultureTreeText.xml -->
+ 
+<!-- Culture tree names and Descriptions -->
+ 
+  <StringTable>
+    <Label>BenevolentPyramid_Name</Label>
+    <String>Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentPyramid_Dec</Label>
+    <String>Full Description Goes Here </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier1_Name</Label>
+    <String>Outreach</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier1_Dec</Label>
+    <String>Benevolent Civilizations believe they can peacefully explore and colonize the galaxy. Outreach gives them the tools they need to do it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier2_Name</Label>
+    <String>Affinity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier2_Dec</Label>
+    <String>Through a profound affinity with their people and the races they encounter, Benevolent Civilizations can avoid almost all internal strife.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier3_Name</Label>
+    <String>Prominence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier3_Dec</Label>
+    <String>Persuasion is one of the primary ways a Benevolent Civilization resolves conflict with others and
+expands their influence throughout the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier4_Name</Label>
+    <String>Enlightenment</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier4_Dec</Label>
+    <String>The Enlightenment of its citizens is an important goal of a Benevolent Civilization. It helps them keep ahead of the less tolerant races in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralPyramid_Name</Label>
+    <String>Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralPyramid_Dec</Label>
+    <String>Full Description Goes Here </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier1_Name</Label>
+    <String>Vigilant</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier1_Dec</Label>
+    <String>Pragmatic Civilizations know that it is better to be safe than sorry and prepare to face the harsh realities of galactic exploration.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier2_Name</Label>
+    <String>Builder</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier2_Dec</Label>
+    <String>Building out a strong infrastructure can be the cornerstone of a Pragmatic Civilizations defensive and economic strategy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier3_Name</Label>
+    <String>Traders</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier3_Dec</Label>
+    <String>Pragmatic races know an aggressive trade policy with other races can not only be profitable, but can help build strong diplomatic ties.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier4_Name</Label>
+    <String>Negotiator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier4_Dec</Label>
+    <String>Negotiation is a powerful weapon in a Pragmatic Civilizations arsenal. With it they can avoid wars and garner support from other races when needed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessPyramid_Name</Label>
+    <String>Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessPyramid_Dec</Label>
+    <String>Full Description Goes Here </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier1_Name</Label>
+    <String>Aggression</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier1_Dec</Label>
+    <String>Aggression comes naturally to Malevolent Civilizations. Taking is almost always easier than Building, and a lot more fun.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier2_Name</Label>
+    <String>Motivation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier2_Dec</Label>
+    <String>Motivation of its workforce is an art that Malevolent Civilizations master early. High production can be tough, but worth it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier3_Name</Label>
+    <String>Greed</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier3_Dec</Label>
+    <String>Malevolent Civilizations know that Wealth can be very helpful in getting their way, and they make sure that credits aren't wasted on anything else.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier4_Name</Label>
+    <String>Awe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier4_Dec</Label>
+    <String>Malevolent Civilizations expect, and demand, respect. Making sure that other races know their strength can reap great rewards in negotiations.</String>
+  </StringTable>
+ 
+</StringTableList>

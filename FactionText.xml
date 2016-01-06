@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupTitle</Label>
+    <String>Explorers in a Hostile Universe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupDescription</Label>
+    <String>Despite being the youngest race in the galaxy, the Terrans are perhaps the most dangerous. Notably, it was their invention of the hyperdrive, and decision to spread it to their neighbors, which led to the current arms race the galaxy finds itself in. 
+
+Although Terrans present themselves as a peaceful and diplomatic people, when they are drawn into warfare, they possess an intuitive flair for violence, and extreme willingness to exercise it. Although Terrans find nothing strange about this dichotomy, many of their galactic peers regard it as alarming, and even duplicitous.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>Terrans are naturally adventurous, with fast, long ranging ships. Their production capacity and diplomatic abilities are well regarded. Their ability to field large fleets is regarded with a bit more wariness.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupTitle</Label>
+    <String>An Entire Galaxy to Conquer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupDescription</Label>
+    <String>The Drengin are one of the older races in the galaxy, with an internal history rich with conquest and bloodshed, dominating the lesser species of their planet. 
+
+Cruel, but inventive, many of their victims have discovered that the Drengin are not mindlessly stupid, and can even be quite creative when it comes to the application of evil. There are few ways to devour a slaveling that the Drengin haven't thought up, though most acknowledge that simple beatings are usually the more economically prudent option.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Name</Label>
+    <String>Altarian Resistance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_ShortName</Label>
+    <String>Altarians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Dec</Label>
+    <String>Altarians are a deeply religious race that are kind in their interaction with others, although a bit self-righteous. For unknown reasons, they are very similar in appearance to the Terrans.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupTitle</Label>
+    <String>Enlightened Leadership</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupDescription</Label>
+    <String>The Altarians are a deeply religious race, and possess a unique history they claim was touched by powerful beings known as the Precursors. Kind and generous to a fault, their unique history means Altarians are prone to behaving more than a little self righteously when dealing with other, lesser races. 
+
+For some as yet unexplained reason, Altarians appear almost identical in appearance to Terrans. Altarian prophecy has spoken of the day they would one day meet their cousins, but few know if that prophecy had anything to say about what would happen next.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupTraitsDescription</Label>
+    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Name</Label>
+    <String>Iridium Corporation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_ShortName</Label>
+    <String>Iridium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_LeaderName</Label>
+    <String>Harondin Gaul</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Dec</Label>
+    <String>The Iridium are an ultra capitalistic civilization, ruled by a number of multi-planet corporations. Firm believers in the power of free markets, they specialize in economic and cultural growth.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Callsign</Label>
+    <String>I.C.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupTitle</Label>
+    <String>New Markets Await</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupDescription</Label>
+    <String>The Iridium Corporation is the apex corporate entity of an ultra capitalistic society, the only organization capable of entering into contracts on behalf of the entire Iridium people. 
+
+The entire Iridium culture is based on a firm, even fanatical belief in the power of free markets. Although no strangers to weaponry, all research is first considered through the lens of mutual cooperation; the destructive cost of warfare is often too great for Iridiums to seriously consider. It remains to be seen how well this philosophy will fare when introduced to more close-minded races.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupTraitsDescription</Label>
+    <String>Iridiums are excellent at Research and Development and quick to maximize the economic potential of any new discovery. Their ships are also far ranging, enhancing their natural inclination to trade. Growth potential is limited somewhat by their species' slower than average population growth.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_Name</Label>
+    <String>Krynn Syndicate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_ShortName</Label>
+    <String>Krynn</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_LeaderName</Label>
+    <String>Ynrhed Eidden</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_Dec</Label>
+    <String>The Krynn are a coalition of races deeply united by a shared religion. In recent years a secretive arm of their faith has taken control of their government, and its Shadow Network now spans the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_Callsign</Label>
+    <String>K.S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupTitle</Label>
+    <String>Unified by Belief</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupDescription</Label>
+    <String>The Krynn are not a single race, but a coalition of sentient beings united by a shared religion. As their beliefs make clear that they will not achieve salvation until all sentient life in the galaxy follows the Way of the Krynn, the Krynn will aggressively attempt to convert their neighbors at every available opportunity.
+
+In recent years, a secretive criminal organization has seized the reigns of power in Krynn civilization. Known as the Syndicate, they pursue the Way of the Krynn via some decidedly more sinister paths than the peaceful language of their religion might suggest.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupTraitsDescription</Label>
+    <String>The Krynn are well suited for expansion, being rapid breeders with fast, far-ranging ships. Their outspoken nature make them unpopular though, and their limited military manufacturing means they have to consider their most aggressive conversion activities very carefully.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_ShortName</Label>
+    <String>YOR</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_LeaderName</Label>
+    <String>N-1</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_Dec</Label>
+    <String>The Yor are a race of sentient artificial beings. They have no need for crude means for reproduction and consumption, and can instead build citizens to inhabit their worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_Callsign</Label>
+    <String>Y.S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_StartupTitle</Label>
+    <String>The Iconian Legacy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_StartupDescription</Label>
+    <String>The Yor are sentient artificial beings, originally servants of a species known as the Iconians. Granted sentience by the Dread Lords, the Yor turned against their Iconian creators, apparently wiping them from the face of the galaxy. The Yor have since become viciously xenophobic, and despise all biological life forms. 
+
+Capable of long-term planning and a surprising degree of cunning, the Yor will often speak to and negotiate with organic beings. Those beings should understand that this is but a short term ploy, and that their new friends will never rest until they, and all other organic life is destroyed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_YOR_StartupTraitsDescription</Label>
+    <String>The Yor are highly productive and capable of building large fleets of self-repairing vessels. They're profoundly unpopular, and few races opt to befriend them. Unlike organic races, their growth rate is a function of production capacity.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_Name</Label>
+    <String>Iconian Refuge</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_ShortName</Label>
+    <String>Iconians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_LeaderName</Label>
+    <String>Iso the Wise</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_Dec</Label>
+    <String>Servants of the Precursors and one of the first races to reach the stars, the Iconians are now locked in a bitter struggle with their own creations; the Yor.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_Callsign</Label>
+    <String>I.R.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupTitle</Label>
+    <String>Remnants of a Lost Race</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupDescription</Label>
+    <String>The Iconians are the oldest of the young races, once servants to the Precursors. Creators of the Yor, they were almost wiped out when their creations were given sentience by the Dread Lords. Only a few Iconians survived, hiding in a distant colony.  
+
+Exceedingly cautious, and not without cause, Iconians have a strong sense of fatalism. That said, they have never given up reclaiming their ancestral home, though their cautious nature has prevented them from ever pursuing this dream. Until perhaps now.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupTraitsDescription</Label>
+    <String>Iconians are overcautious and even paranoid as a result of living in hiding for generations. That said, living with limited resources has made them excellent farmers and repairers, and surprisingly accurate shots, their entire culture built around minimizing waste. And the harsh population controls they live under have only enhanced their understanding of fertility.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_ShortName</Label>
+    <String>Thalan</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_LeaderName</Label>
+    <String>Hithesius</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_Dec</Label>
+    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_StartupTitle</Label>
+    <String>From Another Time</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_StartupDescription</Label>
+    <String>The Thalans are an insectoid race that claim to originate in the distant future. Their purpose here is unknown to most, but from a few cryptic words it seems they have come back in time to stop the Terrans from destroying the universe at some point in the future. 
+
+Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_THALAN_StartupTraitsDescription</Label>
+    <String>The Thalans are excellent researchers, extremely productive, and unfailingly militant. Their fertility is limited however, a possible side effect of living in an unfamiliar universe. And their distant and aloof nature makes them very unlikable.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_Name</Label>
+    <String>New Race Name</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_ShortName</Label>
+    <String>Short Name</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_LeaderName</Label>
+    <String>Leader Name</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_Dec</Label>
+    <String>Place faction description here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_LeaderDec</Label>
+    <String>Place leader description here</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_Callsign</Label>
+    <String>S.S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupTitle</Label>
+    <String>Time to Explore</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupDescription</Label>
+    <String>An alien species of unknown history and makeup. No-one knows who they are or where they came from, but it's a big galaxy - there was always going to be someone who fell through the cracks. They could be aggressive, civil, intelligent, foolish, large-nosed, or any combination of the above.
+ </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupTraitsDescription</Label>
+    <String>This species has many qualities, some of them no doubt good or bad.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_Name</Label>
+    <String>Marauders</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_ShortName</Label>
+    <String>Marauders</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_LeaderName</Label>
+    <String>Mox the Cruel</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_Dec</Label>
+    <String>Society of anarchical scavengers where the powerful stay in control by pitting their underlings against each other. They idolize the Drengin (mostly from viewing war propaganda and blood sports) but are dismissive toward other races. They aren't a single species but a mix of war survivors, rebels, criminals and pirates from across the universe.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_HomeworldName</Label>
+    <String>Tortoon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_Callsign</Label>
+    <String>D.E.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_MARAUDER_StartupTraitsDescription</Label>
+    <String>Society of anarchical scavengers where the powerful stay in control by pitting their underlings against each other. They idolize the Drengin (mostly from viewing war propaganda and blood sports) but are dismissive toward other races. They aren't a single species but a mix of war survivors, rebels, criminals and pirates from across the universe.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_Name</Label>
+    <String>Dark Yor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_ShortName</Label>
+    <String>Dark Yor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_LeaderName</Label>
+    <String>D-S9</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_Dec</Label>
+    <String>The Yor believe that organic life is inferior to their own. But the Dark Yor are more aggressive to that, they believe that organic life is a plague on the universe and the only cure is eradication.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_HomeworldName</Label>
+    <String>Assembly VI</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_Callsign</Label>
+    <String>Y.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_DARK_YOR_StartupTraitsDescription</Label>
+    <String>The Yor believe that organic life is inferior to their own. But the Dark Yor are more aggressive to that, they believe that organic life is a plague on the universe and the only cure is eradication.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_Name</Label>
+    <String>Burran</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_ShortName</Label>
+    <String>Burran</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_LeaderName</Label>
+    <String>Khenpo Adar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_Dec</Label>
+    <String>A peaceful species who believes that a series of 7 "rigors" will cause them to be elevated to a godlike existence. Each rigor takes many years to accomplish and only the first 3 of these can be performed on their home planet, afterwards they explore the universe pursuing their tasks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_HomeworldName</Label>
+    <String>Nirius</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_Callsign</Label>
+    <String>K.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BURRAN_StartupTraitsDescription</Label>
+    <String>A peaceful species who believes that a series of 7 "rigors" will cause them to be elevated to a godlike existence. Each rigor takes many years to accomplish and only the first 3 of these can be performed on their home planet, afterwards they explore the universe pursuing their tasks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_Name</Label>
+    <String>Snathi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_ShortName</Label>
+    <String>Snathi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_LeaderName</Label>
+    <String>Snarky</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_Dec</Label>
+    <String>These guys are E-V-I-L! It's rumored that the Dread Lords, in a last ditch effort to destroy the Arnorans in the epic Battle of Kalis-Yu', focused all their dark energy, malice, and hatred into an army of war-hungry demons... the SNATHI! Now, after billions of years hoarding their proverbial 'Nuts', the Snathi have metaphorically 'climbed out of their tree' and will 'gnaw the galaxy with their big squirrel-like teeth'... so to speak.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_HomeworldName</Label>
+    <String>Snathi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_Callsign</Label>
+    <String>S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_SNATHI_StartupTraitsDescription</Label>
+    <String>These guys are E-V-I-L! It's rumored that the Dread Lords, in a last ditch effort to destroy the Arnorans in the epic Battle of Kalis-Yu', focused all their dark energy, malice, and hatred into an army of war-hungry demons... the SNATHI! Now, after billions of years hoarding their proverbial 'Nuts', the Snathi have metaphorically 'climbed out of their tree' and will 'gnaw the galaxy with their big squirrel-like teeth'... so to speak.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_Name</Label>
+    <String>Gaulox</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_ShortName</Label>
+    <String>Gaulox</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_LeaderName</Label>
+    <String>The Great Aux</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_Dec</Label>
+    <String>After being sterilized by planetary radiation this species directed all of their research toward life extending technology. Before the radiation storm, an early space exploration vessel left the planet and they now search for that ship in the hopes that it still contains some fertile members of their species, or the descendants of them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_HomeworldName</Label>
+    <String>Bowlea</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_Callsign</Label>
+    <String>T.A.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GAULOX_StartupTraitsDescription</Label>
+    <String>After being sterilized by planetary radiation this species directed all of their research toward life extending technology. Before the radiation storm, an early space exploration vessel left the planet and they now search for that ship in the hopes that it still contains some fertile members of their species, or the descendants of them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_Name</Label>
+    <String>Kaxx Collective</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_ShortName</Label>
+    <String>Kaxx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_LeaderName</Label>
+    <String>Keeper Quin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_Dec</Label>
+    <String>They believe their home world is the cocoon for a sleeping creature and they were placed on the planet to guard her. One day they believe the creature will awake and either spread new life across the universe or kill everyone.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_HomeworldName</Label>
+    <String>Sleeping Eudrao</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_Callsign</Label>
+    <String>T.C.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KAXX_StartupTraitsDescription</Label>
+    <String>They believe their home world is the cocoon for a sleeping creature and they were placed on the planet to guard her. One day they believe the creature will awake and either spread new life across the universe or kill everyone.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_Name</Label>
+    <String>Odair Conclave</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_ShortName</Label>
+    <String>Odair</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_LeaderName</Label>
+    <String>Dustman Cole</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_Dec</Label>
+    <String>Extreme nihilists counting down the moments until the universe succumbs to the eventual pull of entropy. Believe the Krynn in particular are the most foolish (for their faith) but are hard pressed to be enthused about anyone. There is a black hole at the edge of their galaxy, "The Yawning Mouth of God" that they delight in sending elaborate constructions into.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_HomeworldName</Label>
+    <String>Obreron</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_Callsign</Label>
+    <String>T.C.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ODAIR_StartupTraitsDescription</Label>
+    <String>Extreme nihilists counting down the moments until the universe succumbs to the eventual pull of entropy. Believe the Krynn in particular are the most foolish (for their faith) but are hard pressed to be enthused about anyone. There is a black hole at the edge of their galaxy, "The Yawning Mouth of God" that they delight in sending elaborate constructions into.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_Name</Label>
+    <String>Exis Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_ShortName</Label>
+    <String>Exis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_LeaderName</Label>
+    <String>High Artiodactyla</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_Dec</Label>
+    <String>For the Exis all activity is measured against the passing of the "Tear of Heaven" comet, which enters their solar systems once every 17 local years. Children born during this year are thought to be gifted, and those that die are thought to be blessed to the point where births and deaths outside of these years are rare.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_HomeworldName</Label>
+    <String>Easluna</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_Callsign</Label>
+    <String>I.R.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_EXIS_StartupTraitsDescription</Label>
+    <String>For the Exis all activity is measured against the passing of the "Tear of Heaven" comet, which enters their solar systems once every 17 local years. Children born during this year are thought to be gifted, and those that die are thought to be blessed to the point where births and deaths outside of these years are rare.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_Name</Label>
+    <String>Klepart</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_ShortName</Label>
+    <String>Klepart</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_LeaderName</Label>
+    <String>Golden Hellena</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_Dec</Label>
+    <String> The first united technical achievement of their species was the creation of a great beacon tower to send their call out into space. A few days after turning it on an answer was received, a fleet of warships appeared in orbit above their world and raiders were sent down to collect every child on their homeworld. And then the raiders were gone. An entire generation of the Klepart was lost. The next generation has now grown old enough to begin exploring space on their own, but they remain fearful that the raiders will return, and hopeful that they will someday find the children that were stolen from them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_HomeworldName</Label>
+    <String>Cotov</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_Callsign</Label>
+    <String>A.R.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_KLEPART_StartupTraitsDescription</Label>
+    <String> The first united technical achievement of their species was the creation of a great beacon tower to send their call out into space. A few days after turning it on an answer was received, a fleet of warships appeared in orbit above their world and raiders were sent down to collect every child on their homeworld. And then the raiders were gone. An entire generation of the Klepart was lost. The next generation has now grown old enough to begin exploring space on their own, but they remain fearful that the raiders will return, and hopeful that they will someday find the children that were stolen from them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_Name</Label>
+    <String>Lantern</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_ShortName</Label>
+    <String>Lantern</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_LeaderName</Label>
+    <String>Isis Oddwater</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_Dec</Label>
+    <String>A young but promising race until early galactic traders introduced them to euphoric vapors that were enjoyed by other species but deeply addictive to the Lantern. Now the Lantern society is dominated by the search for additional sources of the drug and all citizens are kept on it at all times.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_HomeworldName</Label>
+    <String>Gloumia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_Callsign</Label>
+    <String>I.C.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_LANTERN_StartupTraitsDescription</Label>
+    <String>A young but promising race until early galactic traders introduced them to euphoric vapors that were enjoyed by other species but deeply addictive to the Lantern. Now the Lantern society is dominated by the search for additional sources of the drug and all citizens are kept on it at all times.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_Name</Label>
+    <String>Gossamer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_ShortName</Label>
+    <String>Gossamer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_LeaderName</Label>
+    <String>High Artiodactyla</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_Dec</Label>
+    <String>This species is based on the study and rumors of the ascension crystals to the point where they have developed an extreme (and nearly unfathomable) mythology around the crystals and any who would interact with them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_HomeworldName</Label>
+    <String>Divine Yolia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_Callsign</Label>
+    <String>I.R.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_GOSSAMER_StartupTraitsDescription</Label>
+    <String>This species is based on the study and rumors of the ascension crystals to the point where they have developed an extreme (and nearly unfathomable) mythology around the crystals and any who would interact with them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_Name</Label>
+    <String>Orphica Enclave</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_ShortName</Label>
+    <String>Orphica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_LeaderName</Label>
+    <String>Orphic Prime</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_Dec</Label>
+    <String>The Orphic Enclave serves only to expand the power of an ancient, renegade supercomputer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_LeaderDec</Label>
+    <String>The Orphic Prime unit is a computer of godlike computational capacity, assisted by harvested sentient brain matter.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_HomeworldName</Label>
+    <String>Arken</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_Callsign</Label>
+    <String>OAV</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupTitle</Label>
+    <String>Ensnare the Galaxy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupDescription</Label>
+    <String>Contrary to the general assumptions of uninformed galactic citizens, the Orphic Prime unit puppeteering the so-called "Orphic Enclave" is not a sentient artificial intelligence. An ancient experiment in genetic programming algorithms gone hellishly wrong, the long-extinct inhabitants of Orpheus have long since had their brain matter repurposed, expanding the Prime unit's computational power to Godlike proportions. Recently, the Orphic Prime unit has learned to exploit the galactic tourism industry: individuals are plugged in to perfect virtual reality while the idle portions of their mind add to the Prime unit's power.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupTraitsDescription</Label>
+    <String>The more computational power the Orphic Prime unit has available, the more power it has over the landscape of Orpheus. Although its power grows slowly, over time, Orpheus can become a galactic powerhouse.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_PIRATES_Name</Label>
+    <String>Space Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_PIRATES_ShortName</Label>
+    <String>Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_PIRATES_Callsign</Label>
+    <String>Pirate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_PIRATES_StartupTraitsDescription</Label>
+    <String>Pirate forces are decentralized and brutal. They do not have the resources of most races, so are slow to build forces, but in time can become a powerful threat if left unchecked.</String>
+  </StringTable>
+ 
+</StringTableList>

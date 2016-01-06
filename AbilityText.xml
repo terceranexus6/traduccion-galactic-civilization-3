@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AbilityText.xml -->
+ 
+<!-- Abilities Traits -->
+ 
+  <StringTable>
+    <Label>EngineersAbility_Name</Label>
+    <String>Engineers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EngineersAbility_ShortName</Label>
+    <String>Engineers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EngineersAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Shipyard production decays at half of the normal rate.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonizersAbility_Name</Label>
+    <String>Colonizers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonizersAbility_ShortName</Label>
+    <String>Colonizers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonizersAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]First improvement on all new colonies is free.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ZealotsAbility_Name</Label>
+    <String>Zealots</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ZealotsAbility_ShortName</Label>
+    <String>Zealots</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ZealotsAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Get an Ideology point each time you invade a planet[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnrelentingAbility_Name</Label>
+    <String>Unrelenting</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnrelentingAbility_ShortName</Label>
+    <String>Unrelenting</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnrelentingAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Invasions never cost credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientAbility_Name</Label>
+    <String>Ancient</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientAbility_ShortName</Label>
+    <String>Ancient</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Gets Research from Precursor Artifacts[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnwaveringAbility_Name</Label>
+    <String>Unwavering</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnwaveringAbility_ShortName</Label>
+    <String>Unwavering</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnwaveringAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Colonies are much harder to Culture flip[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntrepreneursAbility_Name</Label>
+    <String>Entrepreneurs</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntrepreneursAbility_ShortName</Label>
+    <String>Entrepreneurs</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntrepreneursAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Trade Routes give Approval bonuses to both parties and 2 extra Trade Routes[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WealthyAbility_Name</Label>
+    <String>Wealthy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WealthyAbility_ShortName</Label>
+    <String>Wealthy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WealthyAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Starts with tourism enabled and with extra credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PatrioticAbility_Name</Label>
+    <String>Coercive</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PatrioticAbility_ShortName</Label>
+    <String>Coercive</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PatrioticAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Planets can adjust their planetary Production manually.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProlificAbility_Name</Label>
+    <String>Prolific</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProlificAbility_ShortName</Label>
+    <String>Prolific</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProlificAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Planets start with 50% more population than is brought on the Colony ship[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SyntheticLife_Name</Label>
+    <String>Synthetic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SyntheticLife_ShortName</Label>
+    <String>Synthetic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SyntheticLife_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Disables Food and natural Growth. Instead an Assembly project is used to produce Citizens.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdaptableAbility_Name</Label>
+    <String>Adaptable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdaptableAbility_ShortName</Label>
+    <String>Adaptable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdaptableAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Can colonize Aquatic, Frozen and Barren Worlds.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarfaringAbility_Name</Label>
+    <String>Starfaring</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarfaringAbility_ShortName</Label>
+    <String>Starfaring</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarfaringAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]All starbases get the first module free. All ships are immune to Nebula effects[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ParanoidAbility_Name</Label>
+    <String>Paranoid</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ParanoidAbility_ShortName</Label>
+    <String>Paranoid</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ParanoidAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Free drones defend planets, shipyards and starbases[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntuitiveAbility_Name</Label>
+    <String>Intuitive</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntuitiveAbility_ShortName</Label>
+    <String>Intuitive</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntuitiveAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Starts with free Research[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KnowledgeableAbility_Name</Label>
+    <String>Knowledgeable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KnowledgeableAbility_ShortName</Label>
+    <String>Knowledgeable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KnowledgeableAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Starts knowing the location of other homeworlds[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AnomalyDefText.xml -->
+ 
+ 
+  <StringTable>
+    <Label>PrecursorAnomaly_Name</Label>
+    <String>Precursor Anomaly [COLOR=WarRed](Heavily Defended)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorProductionAnomaly_Name</Label>
+    <String>Precursor Production Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorProductionAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]After securing the Precursor Artifact, our scientists have found a new technology that will greatly increase the Raw Production of our worlds.[/COLOR]
+
+[ICON=Stat_Raw_Productive_Icon] +1 Raw production to all colonies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchAnomaly_Name</Label>
+    <String>Precursor Research Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]After securing the Precursor Artifact, our scientists have discovered some amazing new technologies that should easily advance our current Research.
+[/COLOR]
+[ICON=Stat_Research_Icon] + 500 Research points</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorCreditsAnomaly_Name</Label>
+    <String>Precursor Wealth Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorCreditsAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]After studying this Precursor Artifact, our Surveyors are very excited.  They have found valuable artifacts that will increase the income of our entire civilization.[/COLOR]
+
+[ICON=Stat_Credits_Icon] +25% to income of all colonies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorInfluenceAnomaly_Name</Label>
+    <String>Precursor Influence Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorInfluenceAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]After capturing the Precursor Artifact, we have found a treasure trove of Precursor art. It is so impressive that the trove has greatly increased our Influence throughout the galaxy.[/COLOR]
+
+[ICON=InfluenceGrowth_Icon] +25% Influence to all colonies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorHitPointsAnomaly_Name</Label>
+    <String>Precursor Hit Points Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorHitPointsAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Inside the debris field of this Precursor Artifact, we have found an amazing new alloy that will greatly increase the durability of our ships.[/COLOR]
+
+[ICON=Hitpoints_Icon] +25% Hit Points to all ships</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMoraleAnomaly_Name</Label>
+    <String>Precursor Morale Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMoraleAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Deep inside this Precursor Artifact our surveyors have found a strange device that instills a deep sense of peace anyone in the same room. They think they can reproduce this technology for masses.[/COLOR]
+
+[ICON=Stat_Morale_Icon] +1 Morale to all colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorManufacturingAnomaly_Name</Label>
+    <String>Precursor Manufacturing Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorManufacturingAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]This Precursor Artifact seems to have been powered by a strange new type of power cells. We think we can learn from them how to increase the manufacturing capacity efficiency of all our colonies.[/COLOR]
+
+[ICON=Stat_Manufacturing_Icon] +25% manufacturing to all colonies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorRangeAnomaly_Name</Label>
+    <String>Precursor Range Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorRangeAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Much to our surprise, we have found a breathable atmosphere inside this Precursor Artifact. The device used to maintain this for several millennia.  Studying it has proven to be quite useful to our engineers.[/COLOR]
+
+[ICON=Stat_Temp_Icon] +25% range to all ships</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorEleriumAnomaly_Name</Label>
+    <String>Precursor Elerium Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorEleriumAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]This Precursor Artifact seem to have once been used as a storehouse of sorts  We have found a vast quantity of Elerium already refined and ready to use.[/COLOR]
+
+[ICON=Stat_Elerium_Icon] +5 Elerium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAntimatterAnomaly_Name</Label>
+    <String>Precursor Antimatter Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAntimatterAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Inside this Precursor Artifact we have found massive Containment Field holding perfectly good Antimatter, ready to be used, and 'shared' with our enemies.[/COLOR]
+
+[ICON=Stat_Antimatter_Icon] +5 Antimatter</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorLogisticsAnomaly_Name</Label>
+    <String>Precursor Logistics Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorLogisticsAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]While studying how this Precursor Artifact has been able to function for thousands of years, we have discovered new techniques that will greatly assist in our ability to maintain large fleets.[/COLOR]
+
+[ICON=ShipLogistics_Icon] +5 Logistics</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMovesAnomaly_Name</Label>
+    <String>Precursor Speed Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMovesAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]This Precursor Artifact seems to have been using a previously unknown method to contain its Hyperdrive field. This method is far more effective than anything we have now. We should be able to adapt this new technique to increase the speed of all our ships.[/COLOR]
+[ICON=Moves_Icon] +25% Moves to all ships</String>
+  </StringTable>
+ 
+</StringTableList>

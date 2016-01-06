@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd"> 
+ 
+  <StringTable>
+    <Label>DefaultArtifact_Name</Label>
+    <String>The Artifact</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DefaultArtifact_Dec</Label>
+    <String>A mysterious Precursor artifact of unimaginable power, capable of turning any race from pathetic tree dwellers to interstellar gods if given enough time.</String>
+  </StringTable>
+ 
+</StringTableList>

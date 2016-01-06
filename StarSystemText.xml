@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- IStarSystem.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>SolSystem_Name</Label>
+    <String>Sol</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SolSystem_Dec</Label>
+    <String>The human solar system containing a class 11 and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrengiSystem_Name</Label>
+    <String>Drengia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrengiSystem_Dec</Label>
+    <String>The Drengin home system containing a class 11
+and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltariaSystem_Name</Label>
+    <String>Altaris</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltariaSystem_Dec</Label>
+    <String>The Altarian home system containing a class 10
+and a class 6 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiaSystem_Name</Label>
+    <String>Iridii</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiaSystem_Dec</Label>
+    <String>The Iridium home system containing a class 12 and a class 4 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconiaSystem_Name</Label>
+    <String>Icos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconiaSystem_Dec</Label>
+    <String>The ancient Iconian, and now Yor, home system.
+It contains a single class 16 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrysethSystem_Name</Label>
+    <String>Kryseth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrysethSystem_Dec</Label>
+    <String>The Krynn home system. It contains a class 8, and two class 4  worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconisSystem_Name</Label>
+    <String>Iconis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconisSystem_Dec</Label>
+    <String>The new home system of the Iconian race containing a class 13 and a class 3 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThalisSystem_Name</Label>
+    <String>Thalis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThalisSystem_Dec</Label>
+    <String>The home of the Thalan Contingency in this Universe.
+It contains a single class 16
+world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnathiSystem_Name</Label>
+    <String>Snathos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnathiSystem_Dec</Label>
+    <String>The ancient home of the Snathi
+It contains a single class 15 (Bread Basket)
+world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MinorSystem_Name</Label>
+    <String>Arb System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MinorSystem_Dec</Label>
+    <String>Randomized home system for Minor Races. It contains a class 16 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeadSystem_Name</Label>
+    <String>Abbydos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeadSystem_Dec</Label>
+    <String>A ruined star system. No Habitable Planets, Just a burned out Rock. Used by the brave and adventuresome.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarterSereneSystem_Name</Label>
+    <String>Serenity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarterSereneSystem_Dec</Label>
+    <String>Contains a beautiful class 12 world with a bonus to Tourism and Approval.</String>
+  </StringTable>
+ 
+</StringTableList>

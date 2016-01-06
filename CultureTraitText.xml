@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CultureTraitText.xml -->
+ 
+<!-- Culture Trait Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>OutreachTrait1_Name</Label>
+    <String>Pioneering</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait1_ShortDec</Label>
+    <String>Grants a free, fully loaded, colony ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait1_Dec</Label>
+    <String>Your people are eager to explore the stars, and more importantly, are willing to put up the credits to do it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait2_Name</Label>
+    <String>Explorers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait2_ShortDec</Label>
+    <String>A previously unnoticed class 10 planet is revealed near your home system.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait2_Dec</Label>
+    <String>Our surveyors have found that a world that was thought to be barren is actually colonizable. The best part; it is quite near by.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait3_Name</Label>
+    <String>Abundant</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait3_ShortDec</Label>
+    <String>All new colonies start with 2 extra population.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait3_Dec</Label>
+    <String>A recent growth spurt coupled with people that are eager to experience new planets. Results in a pleasant increase to future colonizing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait4_Name</Label>
+    <String>Adept</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait4_ShortDec</Label>
+    <String>Each existing colony receives 1 additional tile.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait4_Dec</Label>
+    <String>Our expertise in exploration and colonization has paid off again, by allowing us to find 1 additional usable tile on each of our colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait5_Name</Label>
+    <String>Beacon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait5_ShortDec</Label>
+    <String>Grants a class 16 planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait5_Dec</Label>
+    <String>A reclusive world, long hidden from the rest of the galaxy, has decided that our civilization is a beacon of enlightenment, and worth aligning itself with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait1_Name</Label>
+    <String>Elevated</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait1_ShortDec</Label>
+    <String>Allows construction of the Elevation Foundation achievement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait1_Dec</Label>
+    <String>The Elevation Foundation encourages visitors to your civilization to assimilate more fully to your species' culture, boosting a colony's Morale by 100% and generating a Benevolent Ideology point every 5 turns.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait2_Name</Label>
+    <String>Dignified</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait2_ShortDec</Label>
+    <String>Homeworld Approval increased by 50%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait2_Dec</Label>
+    <String>Residents of your homeworld are so proud of its heritage that they don't seem to mind that it's also one of the most crowded worlds in your civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait3_Name</Label>
+    <String>Appreciative</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait3_ShortDec</Label>
+    <String>Your first 5 worlds receive an Approval bonus.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait3_Dec</Label>
+    <String>Descendents of the first colonists carry with them an unusual amount of pride and faith in your civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait4_Name</Label>
+    <String>Loyal</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait4_ShortDec</Label>
+    <String>All colonies receive a 10% Resistance bonus.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait4_Dec</Label>
+    <String>Our citizens have grown to love our worlds, and will rise up in defense of them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait5_Name</Label>
+    <String>Noble</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait5_ShortDec</Label>
+    <String>All colonies receive a 50% Approval bonus.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait5_Dec</Label>
+    <String>A government can enslave its citizens strength, and dominate their minds, but their hearts can only be won.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait1_Name</Label>
+    <String>Eminence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait1_ShortDec</Label>
+    <String>Allows the building of a Missionary Center, which produces a Benevolent Ideology point every 10 turns.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait1_Dec</Label>
+    <String>The Missionary Center will create missionaries that travel the galaxy spreading the word about the greatness of your civilization. This will grant powerful bonuses to Influence and build your reputation as a benevolent race.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait2_Name</Label>
+    <String>Admirable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait2_ShortDec</Label>
+    <String>Gives your home world an additional Influence per turn.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait2_Dec</Label>
+    <String>The culture and standard of living on the homeworld civilization are admired and envied throughout the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait3_Name</Label>
+    <String>Enticing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait3_ShortDec</Label>
+    <String>All planets and starbases within our Influence join our civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait3_Dec</Label>
+    <String>Our reputation has grown to the point that any world within our Influence begs to join our civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait4_Name</Label>
+    <String>Alluring</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait4_ShortDec</Label>
+    <String>All starbases generate Influence, regardless of type.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait4_Dec</Label>
+    <String>Our starbases glitter in the deep night of space like stars formed from glass and titanium.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait5_Name</Label>
+    <String>Radiant</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait5_ShortDec</Label>
+    <String>All your worlds gain additional Influence per turn.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait5_Dec</Label>
+    <String>Our worlds are so prosperous and advanced that each and every one of them is idolized by the rest of the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait1_Name</Label>
+    <String>Educated</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait1_ShortDec</Label>
+    <String>Grants 150 free research points.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait1_Dec</Label>
+    <String>Your culture of open minded acceptance regularly encourages the development of great thinkers. One such mind has stepped forward, leading to massive advances in your understanding of the universe.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait2_Name</Label>
+    <String>Skilled</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait2_ShortDec</Label>
+    <String>All your worlds gain a 10% Research bonus.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait2_Dec</Label>
+    <String>Our starbases are the beating heart of our empire, through which blood flows to each part. They transport supplies and ships, but more importantly communication between our worlds so that our best minds may easily confer with each other.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait3_Name</Label>
+    <String>Enriched</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait3_ShortDec</Label>
+    <String>Allows construction of the Temple of Enlightenment achievement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait3_Dec</Label>
+    <String>Allows us to build a Temple of Enlightenment, which gives a 200% bonus to a colony's Research and generates a Benevolent Ideology point per turn.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait4_Name</Label>
+    <String>Breakthrough</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait4_ShortDec</Label>
+    <String>Grants 300 free research points.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait4_Dec</Label>
+    <String>Our civilization has become so attractive that great minds thoughout the galaxy have begun migrating to our worlds, beginning a new Golden Age of scientific advancement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait5_Name</Label>
+    <String>Quantum Leap</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait5_ShortDec</Label>
+    <String>Grants 600 free research points, and all colonies gain 5 Research per turn.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait5_Dec</Label>
+    <String>The advancement was so significant that we could not imagine what we were about to become, and once transformed we could not remember what we once were.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait1_Name</Label>
+    <String>Prepared</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait1_ShortDec</Label>
+    <String>Allows the building of a Preparedness Center, which produces a Pragmatic Ideology points every 10 turns.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait1_Dec</Label>
+    <String>A Pragmatic people know it is better to be perpared for the worse, these centers alow our worlds to better cope with the harsh realities of the galaxy. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait2_Name</Label>
+    <String>Favored</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait2_ShortDec</Label>
+    <String>Anyone at war with us receives a 25% penalty to Approval.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait2_Dec</Label>
+    <String>Our civilization is so highly thought of in the galaxy that any race which declares war on us will soon suffer a backlash from their own population.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait3_Name</Label>
+    <String>Reserved</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait3_ShortDec</Label>
+    <String>Enemy ships in our Zone of Control receive a 25% penalty to their sensor and ship range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait3_Dec</Label>
+    <String>Our people have made it a habit of making sure that hostile races have a hard time getting around or even finding their way around our territories.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait4_Name</Label>
+    <String>Cautious</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait4_ShortDec</Label>
+    <String>All planets receive 3 free defending ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait4_Dec</Label>
+    <String>As the galaxy becomes more and more dangerous our citizens have become more capable of defending their own worlds, and have found the means to do so.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait5_Name</Label>
+    <String>Watchful</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait5_ShortDec</Label>
+    <String>All our ships receive a free Escort fighter when in our Zone of Control.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait5_Dec</Label>
+    <String>Our citizenry has become very protective of our infrastructure, and has formed several volunteer groups that patrol our territory protecting our fleets from attack.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait1_Name</Label>
+    <String>Constructive</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait1_ShortDec</Label>
+    <String>Grants 3 free constructor vessels.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait1_Dec</Label>
+    <String>We have established a number of public-private partnerships to encourage the creation of constructor vessels that will help us build out our infrastructure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait2_Name</Label>
+    <String>Coordinated</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait2_ShortDec</Label>
+    <String>Our shipyards operate at 100% at twice the distance from your colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait2_Dec</Label>
+    <String>Improved planning has made our shipyards much more efficient,  dramatically improving the effectiveness of our economic and military infrastructure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait3_Name</Label>
+    <String>Inventive</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait3_ShortDec</Label>
+    <String>New starbases get one additional module to start with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait3_Dec</Label>
+    <String>Our thrifty starbase engineers are so efficient that they can now build an additional module out of their construction supply.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait4_Name</Label>
+    <String>Resourceful</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait4_ShortDec</Label>
+    <String>All mined resource yields increased by 2</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait4_Dec</Label>
+    <String>Our miners have been able to increase the yields of our starbases without any additional infrastructure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait5_Name</Label>
+    <String>Efficient</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait5_ShortDec</Label>
+    <String>All Construction modules now give 2 points instead of 1.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait5_Dec</Label>
+    <String>Our engineers have gotten so proficient at building starbases that they can now make two modules with the same resources it used to take to make one.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait1_Name</Label>
+    <String>Exporters</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait1_ShortDec</Label>
+    <String>Grants a free freighter and trade license.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait1_Dec</Label>
+    <String>With the proper infrastructure in place, we will be far better able to capitalize on the possibilities of interstellar travel.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait2_Name</Label>
+    <String>Merchants</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait2_ShortDec</Label>
+    <String>All trade income increased by 25%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait2_Dec</Label>
+    <String>Traders from our civilization are regarded as the hardest dealers throughout the galaxy, capable of getting the best price anywhere they travel.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait3_Name</Label>
+    <String>Luxury</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait3_ShortDec</Label>
+    <String>Enables luxury trade routes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait3_Dec</Label>
+    <String>Luxury trade routes are not only more profitable they increase the Influence &amp; Approval of the planets they connect.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait4_Name</Label>
+    <String>Indispensable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait4_ShortDec</Label>
+    <String>Improves relations with civilizations we have trade routes with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait4_Dec</Label>
+    <String>Our trade routes have become so well established that the Civilizations we trade with will do almost anything to keep them going.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait5_Name</Label>
+    <String>Shrewd</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait5_ShortDec</Label>
+    <String>Diplomatic trades for Credits pay an additional 25%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait5_Dec</Label>
+    <String>Our skills as negotiators are so great that we are always able to ensure our civilizations comes out ahead in any trade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait1_Name</Label>
+    <String>Neutral</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait1_ShortDec</Label>
+    <String>No one will declare war on us for the next 50 turns.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait1_Dec</Label>
+    <String>Our civilization has established a reputation as one that can be reasoned with, and for the time being, we will be able to talk our way out of all conflicts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait2_Name</Label>
+    <String>Amiable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait2_ShortDec</Label>
+    <String>Improve relations with all races.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait2_Dec</Label>
+    <String>Our cautious but reasonable approach when speaking with our neighbors has established a reputation that will benefit us in all our diplomatic dealings.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait3_Name</Label>
+    <String>Arbiters</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait3_ShortDec</Label>
+    <String>Allows the building of the Arbitration Center achievement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait3_Dec</Label>
+    <String>Our reputation as a fair and balanced race has attracted attention from others, who wish us to help resolve their own disputes, increasing our reputation as a Pragmatic Race.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait4_Name</Label>
+    <String>Popular</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait4_ShortDec</Label>
+    <String>Races that declare war on us anger all other races in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait4_Dec</Label>
+    <String>Our reputation as negotiators has grown to the point where even our enemies look suspiciously at anyone who declares war on us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait5_Name</Label>
+    <String>Venerable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait5_ShortDec</Label>
+    <String>Any race that invades our homeworld is instantly declared war on by all other races not allied with them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait5_Dec</Label>
+    <String>Our homeworld has become known as the neutral ground throughout the galaxy, and violating it invites the wrath of most of the galaxy's races.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait1_Name</Label>
+    <String>Militaristic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait1_ShortDec</Label>
+    <String>Grants a free frigate class warship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait1_Dec</Label>
+    <String>Our race's intent interest in military research and development has resulted in the creation of a prototype ship that is truly ahead of its time.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait2_Name</Label>
+    <String>Eager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait2_ShortDec</Label>
+    <String>Every planet we conquer provides our people a permanent boost to Approval.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait2_Dec</Label>
+    <String>With each victory, our forces become more sure of their cause, and more determined to do what is needed to achieve it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait3_Name</Label>
+    <String>Threatening</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait3_ShortDec</Label>
+    <String>Grants 5 free, fully loaded, transports.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait3_Dec</Label>
+    <String>Our people are so hungry for conquest that they have privately funded and manned an entire invasion fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait4_Name</Label>
+    <String>Dangerous</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait4_ShortDec</Label>
+    <String>Unlocks Advanced Transport Modules that come with escort fighters.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait4_Dec</Label>
+    <String>Our transport modules are now so efficant that they can carry escort fighters in case they are attacked.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait5_Name</Label>
+    <String>Bloodthirsty</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait5_ShortDec</Label>
+    <String>All planets receive a fully armed Overlord class ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait5_Dec</Label>
+    <String>Our civilization is so hungry for violence that each of our planets are able to muster up the resourses to fabricate a large defensive ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait1_Name</Label>
+    <String>Intimidating</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait1_ShortDec</Label>
+    <String>Unlocks the Intimidation Center improvement, which produces a Malevolent Ideology Point every 10 turns.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait1_Dec</Label>
+    <String>An Intimidation Center is capable of raising approval by force. When placed on a troublesome world, it will help shut up the whiners and reconfirm our reputation as a race that doesn't take sh... guff... from anyone.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait2_Name</Label>
+    <String>Relentless</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait2_ShortDec</Label>
+    <String>Grants free Production to our homeworld.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait2_Dec</Label>
+    <String>Workers are meant for working, and after making a messy example of a few who thought otherwise, we can count on receiving a quite a boost to production on our homeworld.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait3_Name</Label>
+    <String>Ruthless</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait3_ShortDec</Label>
+    <String>Doubles the Military production of our homeworld.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait3_Dec</Label>
+    <String>Our hone world is so motivated to spread it's influence that the shipyards their can produce ships at twice the rate of almost any world in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait4_Name</Label>
+    <String>Implacable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait4_ShortDec</Label>
+    <String>Allows the building of the Death Furnace achievement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait4_Dec</Label>
+    <String>These terrifying Death Furnaces will make a planet substantially more productive, although quite a bit less pleasant to look at. It also generates a Malevolent Ideology point per turn.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait5_Name</Label>
+    <String>Unforgiving</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait5_ShortDec</Label>
+    <String>All colonies receive a 25% Production bonus. Unlocks the Culling Planetary project.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait5_Dec</Label>
+    <String>Since we began broadcasting our most hilarious and painful Laziness Sanctions throughout our civilization, workers everywhere live in terror of not giving 110%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait1_Name</Label>
+    <String>Uncharitable</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait1_ShortDec</Label>
+    <String>Provides a 10% increase to planetary income.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait1_Dec</Label>
+    <String>Our planetary administrators have become experts at scraping a bit of revenue off the top of the economies of their worlds. A simple matter, really; anyone who complains soon finds themselves working in some dark and noisy place.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait2_Name</Label>
+    <String>Utilitarian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait2_ShortDec</Label>
+    <String>Improves the class of our first five worlds by 1.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait2_Dec</Label>
+    <String>Our core worlds understand that land is meant to be developed, and that even the most marginal terrain must be exploited if our race is to maximize its productivity.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait3_Name</Label>
+    <String>Tightfisted</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait3_ShortDec</Label>
+    <String>Allows the building of the Citadel of Revenue achievment.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait3_Dec</Label>
+    <String>The Citadel of Revenue is spoken of in whispers throughout the galaxy, though few know the techniques it uses to sqeeze every last credit out of a planet. Simply owning one generates a Malevolent Ideology point every 5 turns.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait4_Name</Label>
+    <String>Slavemasters</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait4_ShortDec</Label>
+    <String>All trade route now bring back slaves in addition to Credits.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait4_Dec</Label>
+    <String>With a bit of creative management our traders have been able to begin importing slaves from forign worlds, most often without our trade partners noticing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait5_Name</Label>
+    <String>Heartless</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait5_ShortDec</Label>
+    <String>Each planet receives additional usable land.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait5_Dec</Label>
+    <String>So little does our civilization care about the plight of its workers, that we're able to make use of terrain once thought dangeously unusable.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait1_Name</Label>
+    <String>Scary</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait1_ShortDec</Label>
+    <String>No penalty from sharing borders with another civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait1_Dec</Label>
+    <String>Races we share a border with know better than to make an issue of it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait2_Name</Label>
+    <String>Feared</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait2_ShortDec</Label>
+    <String>Minor races in our Zone of Control will trade more favorably with us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait2_Dec</Label>
+    <String>Our reputation now causes weaker races to humiliate themselves at our feet, begging for our favor with unreasonably generous trade terms.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait3_Name</Label>
+    <String>Unnerving</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait3_ShortDec</Label>
+    <String>Enemy ships in our Zone of Control suffer a 25% penalty to their Hit Points.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait3_Dec</Label>
+    <String>Enemy ships in our territory are so paranoid that they seem to literally shake themselves apart in fear.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait4_Name</Label>
+    <String>Exalted</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait4_ShortDec</Label>
+    <String>A Class 16 colony near your borders defects to your civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait4_Dec</Label>
+    <String>There are some worlds wise enough to know not to resist our splendor, regardless of what their leader tells them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait5_Name</Label>
+    <String>Undaunted</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait5_ShortDec</Label>
+    <String>Our planets and starbases are immune to Culture Flipping.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait5_Dec</Label>
+    <String>Our people are so proud that the concept of yielding to a foreign culture is impossible to conceive, they will stay loyal until the bitter end.</String>
+  </StringTable>
+ 
+</StringTableList>

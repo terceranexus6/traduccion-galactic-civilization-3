@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ShipText.xml -->
+ 
+<!-- Ship Name -->
+ 
+  <StringTable>
+    <Label>TerranSurvey_Name</Label>
+    <String>Survey Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TerranColonyShip_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TerranScout_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TerranSniper_Name</Label>
+    <String>Sniper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TerranGuardian_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrenginSurvey_Name</Label>
+    <String>Survey Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrenginColonyShip_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrenginScout_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrenginSniper_Name</Label>
+    <String>Sniper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrenginGuardian_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianSurvey_Name</Label>
+    <String>Survey Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianColonyShip_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianScout_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianSniper_Name</Label>
+    <String>Sniper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianGuardian_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumSurvey_Name</Label>
+    <String>Survey Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumColonyShip_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumScout_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumSniper_Name</Label>
+    <String>Sniper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumGuardian_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynnSurvey_Name</Label>
+    <String>Survey Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynnColonyShip_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynnScout_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>YorSurvey_Name</Label>
+    <String>Survey Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>YorColonyShip_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>YorScout_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PirateAttacker_Name</Label>
+    <String>Attacker</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreeFrigate_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostCutter_Name</Label>
+    <String>Lost Cutter</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostDefender_Name</Label>
+    <String>Lost Defender</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostGunboat_Name</Label>
+    <String>Lost Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostScout_Name</Label>
+    <String>Lost Scout Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostColony_Name</Label>
+    <String>Lost Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostConstructor_Name</Label>
+    <String>Lost Constructor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostSurvey_Name</Label>
+    <String>Lost Survey Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CapturedScout_Name</Label>
+    <String>Captured Scout</String>
+  </StringTable>
+ 
+</StringTableList>

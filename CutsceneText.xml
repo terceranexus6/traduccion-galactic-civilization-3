@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+ 
+<!-- Event Names and Descriptions -->
+	<StringTable>
+		<Label>FIRST_COLONY_NAME</Label>
+		<String>First Colony</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_COLONY_DESC</Label>
+		<String>Finally, after their long journey, your colonists set foot on an alien world. Untold effort and struggle were required to get even this far, but it's only the beginning. The galaxy is filled with worlds for the taking.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_MEDIUM_SHIP_NAME</Label>
+		<String>First Capital Ship</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_MEDIUM_SHIP_DESC</Label>
+		<String>With a gentle burst of acceleration, the pride of your fleet leaves its nest. The first of its kind, but it will soon be joined by others - a fleet capable of bending the galaxy to your will, whatever that will might be.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_DURANTIUM_NAME</Label>
+		<String>First Durantium Mine</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_DURANTIUM_DESC</Label>
+		<String>Your miners return with the first load of Durantium ore, rocky debris laced with a tell-tale silvery-gold flicker. More dense and resilient than anything your people have seen before, it can be used in prototype armor and kinetic weapons.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ELERIUM_NAME</Label>
+		<String>First Elerium Mine</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ELERIUM_DESC</Label>
+		<String>An unnatural glow fills the mining ship as it draws in the first batch of the mysterious substance, Elerium. It is a material which has strange synergistic effects on high-energy systems, and can be used in prototype shields and beam weapons.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_PROMETHION_NAME</Label>
+		<String>First Promethion Mine</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_PROMETHION_DESC</Label>
+		<String>The first of your probes returns with canisters filled with precious Promethion. Incredibly unstable, to the point that this substance simply shouldn't exist, it can be used in prototype life support and engine systems.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_THULIUM_NAME</Label>
+		<String>First Thulium Mine</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_THULIUM_DESC</Label>
+		<String>Your miners begin offloading their first load of Thulium. Surprisingly dull looking, it's only in higher dimensions that Thulium shows its true character, able to sense and be affected by objects at great distances. This can be used in prototype sensor and targeting systems.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANTIMATTER_NAME</Label>
+		<String>First Antimatter Mine</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANTIMATTER_DESC</Label>
+		<String>The first of your antimatter mining probes - little more than an engine with a scoop - returns from the surface of oblivion with its precious cargo. Having resisted all efforts to synthesize it, a reliable source of antimatter can be used in prototype missile and point defense systems.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRANSPORT_NAME</Label>
+		<String>First Transport</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRANSPORT_DESC</Label>
+    <String>Veni, vidi...ahh who cares? Long story short, this ship is stocked with the troops needed to make tons of new temporary friends and carry your vengeance across the galaxy. Enjoy!</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRADE_ROUTE_NAME</Label>
+		<String>First Trade Route</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRADE_ROUTE_DESC</Label>
+		<String>With minimal ceremony, the first of your trading frigates pushes away from its slip. It will bring back with it a small portion of the galaxy's wealth, the first in what will surely be a long series of profitable exchanges for your people.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_RAIDED_NAME</Label>
+		<String>First Raid</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_RAIDED_DESC</Label>
+		<String>The relentless chirping of the distress beacon told the tale long before your scouts found the debris: Someone has begun attacking your trade frigates. Lives senselessly thrown away and resources snatched from your grasp. Your people are strong enough to persevere, but something will have to be done about the villains behind this.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_STARBASE_NAME</Label>
+		<String>First Starbase</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_STARBASE_DESC</Label>
+		<String>Your people have had permanent structures in space before, but nothing like this. More than a facility, more than a place to build ships, this starbase is an extension of your very civilization. Everything you do, everything you're proud of, everything you and your people are, will exist here.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANOMALY_NAME</Label>
+		<String>First Anomaly Survey</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANOMALY_DESC</Label>
+		<String>Your survey ship cautiously approaches the mysterious object, all sensors set to maximal gain. A secret of the universe, the first of many, is about to reveal itself to you.</String>
+	</StringTable>
+ 
+</StringTableList>

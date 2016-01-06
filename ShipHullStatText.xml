@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ShipHullStatText.xml -->
+ 
+<!-- Ship Hull Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Tiny_Name</Label>
+    <String>Tiny</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tiny_Dec</Label>
+    <String>Fragile, but cheap hull size. Ideal for tiny ships like scouts and fighters.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Small_Name</Label>
+    <String>Small</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Small_Dec</Label>
+    <String>Ideal hull size for smaller assault ships and escorts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Medium_Name</Label>
+    <String>Medium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Medium_Dec</Label>
+    <String>Ideal hull size for smaller Capital ships and larger Escorts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Large_Name</Label>
+    <String>Large</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Large_Dec</Label>
+    <String>Expensive, but tough hull size, with the carrying capacity to do just about anything.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Huge_Name</Label>
+    <String>Huge</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Huge_Dec</Label>
+    <String>Hull size designed for the ultimate war ships, expensive, but capable of carrying a small fleet of armaments on its own.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Cargo_Name</Label>
+    <String>Cargo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Cargo_Dec</Label>
+    <String>Fragile hull size, and not meant for battle. Used to create ships like Colony Ships and Constructors.</String>
+  </StringTable>
+ 
+</StringTableList>

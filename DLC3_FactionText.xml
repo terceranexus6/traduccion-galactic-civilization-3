@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_Name</Label>
+    <String>Snathi Revenge</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_ShortName</Label>
+    <String>Snathi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_LeaderName</Label>
+    <String>Lord Snarky</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_Dec</Label>
+    <String>The most Evil sect of an already Evil race, the Snathi Revenge, has spent the last millennia imprisoned by the precursors on a distant world.  Free at last, they will show the galaxy the true face of Evil.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_LeaderDec</Label>
+    <String>The leader of the Snathi, Lord Snarky is known for having a mind as sharp as his teeth.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_Callsign</Label>
+    <String>S.S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_StartupTitle</Label>
+    <String>Revenge will be ours!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_StartupDescription</Label>
+    <String>The most E-V-I-L sect of an already Evil race, the Snathi Revenge, has spent the last millennia imprisoned by the Precursors on a distant world. With the fall of the Dread Lords, the Snathi are finally free to lay waste to a galaxy of lesser beings and foes. 
+
+In the name of their creators, the Dread Lords, the Snathi will show the galaxy the true face of fear.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_StartupTraitsDescription</Label>
+    <String>The Snathi are the ultimate scavenger race. They quickly learn how to piece together any technologies that they come across and can repair the most damaged vessels at a rate unheard of by other races. The Snathi are also known for cherry-picking the technologies of other races and using them for their own nefarious purposes.</String>
+  </StringTable>
+ 
+</StringTableList>

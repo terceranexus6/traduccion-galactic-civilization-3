@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AnomalyDefText.xml -->
+ 
+<!-- Artifacts -->
+ 
+  <StringTable>
+    <Label>FinishProjectArtifact_Name</Label>
+    <String>Precursor Builders</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FinishProjectArtifact_Dec</Label>
+    <String>Upon being sent to your nearest colony for study, this strange precursor artifact releases thousands of tiny worker bots that almost immediately complete the planetary project in progress. Sadly, they shut down after completion of the project.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FinishTechArtifact_Name</Label>
+    <String>Unfortunate Genius</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FinishTechArtifact_Dec</Label>
+    <String>A mysterious orb floating in deep space scans your survey ship before self-destructing. In the aftermath, one of your less intellectually gifted crew members shows remarkable and sudden brilliance. He makes an astounding technological breakthrough before his head explodes... literally, unfortunately.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GiveCreditsArtifact_Name</Label>
+    <String>Ancient Riches</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GiveCreditsArtifact_Dec</Label>
+    <String>You're not quite sure how this ancient artifact of immense and obvious monetary value made its way back to fleet command, but your survey crew will surely enjoy a pat on the back and a shiny medal more than something so crass as a life of permanent, absurd luxury.</String>
+  </StringTable>
+ 
+<!-- Capsules -->
+ 
+  <StringTable>
+    <Label>ContrabandTech_Name</Label>
+    <String>Mysterious Hardware</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ContrabandTech_Dec</Label>
+    <String>The alien computational systems found in this capsule are so advanced that your survey team lacks the words to describe all but their most rudimentary functions. Even those low-level capabilities, however, are enough to advance our technological studies by leaps and bounds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CargoPod_Name</Label>
+    <String>Lost and Found</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CargoPod_Dec</Label>
+    <String>The scorched and pitted exterior of this abandoned cargo pod give the impression that its rightful owners are unlikely to return for it in this life. It would be a shame to let the valuable goods inside go to waste.</String>
+  </StringTable>
+ 
+<!-- ShipGraveyard -->
+ 
+  <StringTable>
+    <Label>LostScoutAnomoly_Name</Label>
+    <String>Lost Scout Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostScoutAnomoly_Dec</Label>
+    <String>A small vessel floats, dead, in deep space. Upon examination it appears to be an old-model scout from a previous war. Its capabilities do not strain even the moderate intellects crewing your survey ship, but with a little work it could be restored to service.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostSurveyAnomoly_Name</Label>
+    <String>One Wormhole to Many</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostSurveyAnomoly_Dec</Label>
+    <String>The unknown design of this survey ship is reminiscent of some Terran vessels, but your crew can't find its exact match anywhere in your databases. The exterior shows signs of wormhole passage, but the interior needs some cleanup to deal with the green goo that your surveyors' best guesses put as the original crew. On the bright side, the ship itself works perfectly. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostCutterAnomoly_Name</Label>
+    <String>Toasted but not Burned</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostCutterAnomoly_Dec</Label>
+    <String>Your survey crew finds a slightly scorched but salvageable small vessel amid the wreckage of some forgotten skirmish during the Dread Lord's war. The crew has presumably been shot for cowardice since the lasers and shields still work, but that just leaves fewer obstacles for your crew to repair the ship and press it into service.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostDefenderAnomoly_Name</Label>
+    <String>Never Surrender</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostDefenderAnomoly_Dec</Label>
+    <String>A single intact defender orbits the remains of a planet destroyed by the terrible weaponry of the Dread Lord's war. The crew, long dead, stand their posts - waiting for reinforcements that never came.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostGunboatAnomoly_Name</Label>
+    <String>Cast the first Stone</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostGunboatAnomoly_Dec</Label>
+    <String>The enormous Drengin battlecruiser floating in deep space, its hull perforated by thousands of small kinetic impacts, is wholly unsalvageable. The Terran gunboat drifting nearby, however, is still in working order. The only remaining crewmember's mummified remains still wraps its hands around the cannon controls, a smile frozen forever on its face.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostColonyAnomoly_Name</Label>
+    <String>Frozen Friends</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostColonyAnomoly_Dec</Label>
+    <String>An uncrewed colony ship drifts in deep space, complete with a hold full of frozen colonists. Upon thawing them, you discover that they are refugees from the Dread Lord's war that have been drifting for more than 10 years. They are quite willing to join your empire in gratitude for repairing their ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostConstructorAnomoly_Name</Label>
+    <String>Constructive Salvage</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LostConstructorAnomoly_Dec</Label>
+    <String>The remains of this destroyed starbase are useless. The abandoned constructor nearby, however, apparently never got a chance to fulfill its function by expanding the starbase. Minimal repairs are needed to get the constructor working again, and soon it can create or enhance a starbase of your very own.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShipSpeedBoost_Name</Label>
+    <String>A Well Needed Boost</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShipSpeedBoost_Dec</Label>
+    <String>A powerful ship drifts, clearly battle-damaged beyond repair. Its advanced drive systems, however, are remarkably well-preserved. A few modifications to its more exotic components later, and your own drives are screaming along well beyond their factory specifications. (+2 moves to all ships in your fleet)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShipRangeBoost_Name</Label>
+    <String>Breath of Fresh Air</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShipRangeBoost_Dec</Label>
+    <String>While investigating a gaseous anomaly, your surveyors find a previously unknown element with remarkable properties. One of the senior scientists among your crew adapts your existing life-support systems to utilize the strange element, greatly enhancing the systems' efficiency and therefore your fleet's range. (+25% range to all ships in fleet)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShipSensorBoost_Name</Label>
+    <String>Lifting the Fog</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShipSensorBoost_Dec</Label>
+    <String>The ancient scout craft your survey ship stumbles upon is built on technological principles your crew can only guess at. One of your engineers decodes the secrets of part of its sensor technology, however, and with a little creativity is able to adapt it to your own ships. (+25% Sensor Range  to all ships in fleet)</String>
+  </StringTable>
+ 
+<!-- SpaceJunk -->
+ 
+  <StringTable>
+    <Label>BigCredits_Name</Label>
+    <String>Cargo Pods</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BigCredits_Dec</Label>
+    <String>Where did these cargo pods, stuffed with goods worth a literally astronomical amount of money, come from? Where are their owners? Why did they abandon them? None of these questions have profitable answers, so there's no reason to ask them in the first place.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MediumCredits_Name</Label>
+    <String>Debris Field</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MediumCredits_Dec</Label>
+    <String>The recent wars left debris fields scattered across the galaxy. This particular one yields a moderate collection of valuable ship components and rare elements after a thorough survey. Curiosity may often be dangerous, but it's also regularly profitable.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SmallCredits_Name</Label>
+    <String>Space Junk</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SmallCredits_Dec</Label>
+    <String>After intensive study of a promising debris field, your surveyors are forced to admit that almost nothing worth salvaging remains. The discipline they face for their failure remains unchanged, of course.</String>
+  </StringTable>
+ 
+<!-- Wormholes -->
+ 
+  <StringTable>
+    <Label>WormholeAnomaly_Name</Label>
+    <String>Wormhole Ride</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WormholeAnomaly_Dec</Label>
+    <String>Your survey ship is caught in an unknown field and sucked through a hole in space itself. The crew may be annoyed at the unplanned detour, but the fact that they are somehow unharmed after traveling such a vast distance in the blink of an eye should keep morale at an acceptable level.</String>
+  </StringTable>
+ 
+</StringTableList>

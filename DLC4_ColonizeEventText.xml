@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ColonizeEventText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Name</Label>
+    <String>Study the Thulium Moon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Dec</Label>
+    <String>Long ago, the Precursors captured a small Thulium node and placed it in orbit of this world. We will be able to use this ready source of Thulium to strengthen the hit points of ships made from our shipyard.
+Our scientists would also like to study it to see what else we can learn. Technology that can be used to create an artificial moon is not something to be squandered.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Benevolent_Bonus_Name</Label>
+    <String>This research is definitely important. I encourage them to study the Precursor technologies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +50% Research</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Neutral_Bonus_Name</Label>
+    <String>Have them search for a way to use these technologies to strengthen our ships, regardless of where they are built.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Hit Points to all ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Merciless_Bonus_Name</Label>
+    <String>This moon is obviously the perfect weapons platform that we can use to secure this world. They can poke around the technologies later.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +75% Planetary Defense</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Name</Label>
+    <String>Study the Durantium Cloud</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Dec</Label>
+    <String>An ancient Precursor race seems to have once inhabited this place. They left behind a cloud of Durantium Asteroids that are now orbiting the world. We will be able to use these to increase the efficiency of the Mass Drivers on our ships.
+However, we may also be able to use this ready source of Durantium for other purposes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Benevolent_Bonus_Name</Label>
+    <String>We can use this Durantium to increase the production of this planet and ease the burden on our people.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +5 Production to this colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Neutral_Bonus_Name</Label>
+    <String>We should use the excess Durantium to find ways to increase the armor efficiency on all of our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +15% armor rating to all ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Merciless_Bonus_Name</Label>
+    <String>We are already using the Durantium to make better Mass Drivers, let's make sure that we stay focused on what's important: killing things.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +5% additional Mass driver attack to all ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Name</Label>
+    <String>Study the Precursor Accelerator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Dec</Label>
+    <String>An immense Precursor Accelerator is orbiting this world. We have been able to tap this device to create even more powerful Drive systems. All of our ships built here will benefit from a great increase in speed.
+Some of our scientists think they can use the accelerator to refine Elerium as well and would like to do some experimentation.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Benevolent_Bonus_Name</Label>
+    <String>Excellent, we can use the Elerium to create a defense field for the colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +75% Planetary Defense</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Neutral_Bonus_Name</Label>
+    <String>Perhaps we can use this Elerium to increase the strength of our shield systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +15% to the Shield strength of all our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Merciless_Bonus_Name</Label>
+    <String>Elerium is great for making beam weapons, right? No question about it, we should put our energy toward making bigger explosions.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% to the Beam attack of all our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Name</Label>
+    <String>Study the Precursor Elevator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Dec</Label>
+    <String>The Precursors who lived on this world before us left behind a completely functional Space Elevator. This will greatly increase our ability to put manufactured goods into space and will prove very useful to our shipyard.
+Unfortunately, the public sector and several other groups are putting a great deal of pressure on us. They hope to use the elevator to faciliate their own projects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Benevolent_Bonus_Name</Label>
+    <String>They can use it as a vacation spot when it's available, as long as they don't block military traffic.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +5 Morale, +50% to colonies Tourism income.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Neutral_Bonus_Name</Label>
+    <String>We can allow some commercial interest time on the Elevator. Any increase in income will be helpful.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +50% to both Colony income, and trade route income.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Merciless_Bonus_Name</Label>
+    <String>The Elevator is too valuable to waste on non-military pursuits. If they have spare time, they can lend it to the war effort.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% military production to all shipyards.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Name</Label>
+    <String>Study the Promethion Refinery</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Dec</Label>
+    <String>Two giant Precursor structures orbit the poles of this world. They seem to have been used to somehow terraform a Promethion Gas giant into a habitable world. We are able to use the Promethion stored in them to increase the range of any ships built by our shipyard.
+Our scientists think they can do more with these giant machines and would like your permission to study them further.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Benevolent_Bonus_Name</Label>
+    <String>See if they can find a way to terraform the surface. More usable land is always welcome.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, Terraforms two additional tiles instantly.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Neutral_Bonus_Name</Label>
+    <String>See if there is any way to boost the value of the land we have now.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +1 Level to all improvements on this world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Merciless_Bonus_Name</Label>
+    <String>See what you can do to shut the complainers up so that they will get to work. We have a galaxy to conquer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +8 to colonies Morale</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Name</Label>
+    <String>Study the Precursor Satellites</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Dec</Label>
+    <String>The former Precursor inhabitants of this would left a large array of very powerful satellites in orbit. We have been able to make use of them to extend both the sensor range of the planet and of the ships that are built here. 
+Our researchers would like to capture one of these satellites for study and have assured us that it will not have any damaging effects on the array.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Benevolent_Bonus_Name</Label>
+    <String>Excellent. Have our researchers focus on using the satellites to increase our sensor range even further.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +2 Sensor range to all ships, and colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Neutral_Bonus_Name</Label>
+    <String>Have our researchers find what the secrets to their power source are so that we can use it in our own systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +5 Planetary Production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Merciless_Bonus_Name</Label>
+    <String>This is a golden opportunity. Make sure our researchers focus what they find into making our weapons systems more accurate.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Accuracy to all weapons types on all our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Name</Label>
+    <String>Study the Precursor Treasury</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Dec</Label>
+    <String>This planet is surrounded by an immense Precursor ring. It's full of valuable assets that could be used to generate income.
+Further studies on the ring have shown that it was once an ancient weapon. Our researchers would like to do some experimentation to see if they can learn how it worked.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Benevolent_Bonus_Name</Label>
+    <String>There is so much to be learned from this artifact, but let's focus on things other than destruction.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +50% Research to this colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Neutral_Bonus_Name</Label>
+    <String>New weapons technologies are always welcome, but we don't want to risk destroying our "golden goose."</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +5 to all weapons on all our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Merciless_Bonus_Name</Label>
+    <String>Find out these secrets by any means necessary, regardless of the cost.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10 to all weapons on all our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Name</Label>
+    <String>Study the Precursor Factory</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Dec</Label>
+    <String>Through intense research, we have been able to use the ancient Precursor Factory orbiting this world to increase our manufacturing output. 
+Several members of the research team responsible for this have come forward with suggestions on how we can utilize this amazing new asset.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Benevolent_Bonus_Name</Label>
+    <String>We can use the excess manufacturing to improve the quality of life for the citizens of this world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10 Morale to this colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Neutral_Bonus_Name</Label>
+    <String>We can have the factory focus on building up our infrastructure, which will lower the cost of building all of our improvements.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +50% to all social manufacturing on this colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Merciless_Bonus_Name</Label>
+    <String>Using the findings from this research, we can channel our manufacturing efforts to our local shipyard more efficiently.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +25% Military manufacturing to sponsored shipyard.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Name</Label>
+    <String>Study the Precursor Research World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Dec</Label>
+    <String>The ancient array of Precursor Research Bases in orbit of this planet are increasing the research capacity for this world.  
+Our researchers would like permission to see if they can find a way to specialize the focus of these new assets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Benevolent_Bonus_Name</Label>
+    <String>Of course. Let's have them research ways to increase the productivity of our worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +4 to Production, and Morale.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Neutral_Bonus_Name</Label>
+    <String>Tell them to study everything! We will benefit more from having a wider variety of technologies in the long run.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +25% to all Research on this colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Merciless_Bonus_Name</Label>
+    <String>Tell our researchers to focus on ways to make our weapons more deadly and efficient.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% to the range of all weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Name</Label>
+    <String>Study the Precursor Prison</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Dec</Label>
+    <String>Now that we have cleaned the atmosphere, we can use the infrastructure of Precursor Prisons to increase the manufacturing quality of this world.
+However, there seem to be many more discoveries that are... darker in nature. Should we take advantage of these assets?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Benevolent_Bonus_Name</Label>
+    <String>We should avoid stirring up the dark past of this world. Let's focus on building up our colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +33% to Social Manufacturing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Neutral_Bonus_Name</Label>
+    <String>It would be best to use the prison infrastructure to fortify this new world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +50% to Planetary Defense and Planetary Resistance.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Merciless_Bonus_Name</Label>
+    <String>It doesn't matter what the nature of the discovery is! Use the more disturbing devices to make our soldiers relentless.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +25% to Soldiering Civilization wide.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Name</Label>
+    <String>Study the Precursor Experimental World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Dec</Label>
+    <String>The giant Precursor Experimental Station orbiting this world has become an amazing resource that is assisting the ability of this planet to research new technologies.
+We have also found some interesting experiments that we may be able to complete with some extra work.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Benevolent_Bonus_Name</Label>
+    <String>Invite our neighbors to study this amazing artifact. It may help us earn some goodwill.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10 Influence per turn to this colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Neutral_Bonus_Name</Label>
+    <String>We should continue working on as many of these experiments as possible.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10 to Research points per turn.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Merciless_Bonus_Name</Label>
+    <String>If we can find any way to make this world more productive, we should make it our highest priority.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +8 Production points to this colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Name</Label>
+    <String>Study the Precursor Quarantine</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Dec</Label>
+    <String>Cleaning up the atmosphere of this world has shown it to be amazingly productive and resource rich.
+Our researchers have been studying the Precursor Containment Device that's orbiting the planet and think they can use it to further enhance this world's potential.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Benevolent_Bonus_Name</Label>
+    <String>We need to focus on making this planet as comfortable for our colonists as possible.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +50% to Population growth on this planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Neutral_Bonus_Name</Label>
+    <String>We should use these technologies to increase the food capacity of the world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +6 to the population cap on this planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Merciless_Bonus_Name</Label>
+    <String>Let's see if we can increase the amount of usable land.  We can always just make more people later.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +2 to this planet's class.</String>
+  </StringTable>
+ 
+</StringTableList>
