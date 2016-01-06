@@ -12,12 +12,12 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>DONEBUTTON</Label>
-    <String>Done</String>
+    <String>Hecho</String>
   </StringTable>
  
   <StringTable>
     <Label>YESBUTTON</Label>
-    <String>Yes</String>
+    <String>Si</String>
   </StringTable>
  
   <StringTable>
@@ -27,7 +27,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>CANCELBUTTON</Label>
-    <String>Cancel</String>
+    <String>Cancelar</String>
   </StringTable>
 
 	<StringTable>
@@ -37,27 +37,27 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Warning</Label>
-    <String>Warning</String>
+    <String>Advertencia</String>
   </StringTable>
  
   <StringTable>
     <Label>NEXTBTNLABEL</Label>
-    <String>Next</String>
+    <String>Siguiente</String>
   </StringTable>
  
   <StringTable>
     <Label>BACKBTNLABEL</Label>
-    <String>Back</String>
+    <String>Atras</String>
   </StringTable>
  
   <StringTable>
     <Label>Coming_Soon_Alpha</Label>
-    <String>Coming Soon</String>
+    <String>Próximamente</String>
   </StringTable>
  
   <StringTable>
     <Label>POPULATIONUNITS</Label>
-    <String> </String>
+    <String>UNIDADES DE POBLACIÓN</String>
   </StringTable>
  
   <StringTable>
@@ -67,92 +67,92 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>None</Label>
-    <String>None</String>
+    <String>Nada</String>
   </StringTable>
  
   <StringTable>
     <Label>TURN</Label>
-    <String>Turn</String>
+    <String>Vuelta</String>
   </StringTable>
  
   <StringTable>
     <Label>ACCEPTBUTTON</Label>
-    <String>Accept</String>
+    <String>Aceptar</String>
   </StringTable>
  
   <StringTable>
     <Label>AVAILABLELABEL</Label>
-    <String>Available</String>
+    <String>Disponible</String>
   </StringTable>
  
   <StringTable>
     <Label>LOADINGWND_STRING</Label>
-    <String>LOADING...</String>
+    <String>CARGANDO...</String>
   </StringTable>
  
   <StringTable>
     <Label>ALPHA_DESPLAY_STRING</Label>
-    <String>Beta, for testing purposes only.</String>
+    <String>Beta, sólo para propósitos de prueba.</String>
   </StringTable>
  
   <StringTable>
     <Label>APPROVAL_HAPPY_TITLE</Label>
-    <String>[ICON=APPROVAL_HAPPY_ICON] Approval</String>
+    <String>[ICON=APPROVAL_HAPPY_ICON] Aprobación</String>
   </StringTable>
  
   <StringTable>
     <Label>APPROVAL_CONTENT_TITLE</Label>
-    <String>[ICON=APPROVAL_CONTENT_ICON] Approval</String>
+    <String>[ICON=APPROVAL_CONTENT_ICON] Aprobación</String>
   </StringTable>
  
   <StringTable>
     <Label>APPROVAL_SAD_TITLE</Label>
-    <String>[ICON=APPROVAL_SAD_ICON] Approval</String>
+    <String>[ICON=APPROVAL_SAD_ICON] Aprobación</String>
   </StringTable>
  
   <StringTable>
     <Label>CONTINUE_PLAYING_LABEL</Label>
-    <String>Continue Playing</String>
+    <String>Seguir jugando</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_TITLE</Label>
-    <String>Fleet Battle</String>
+    <String>Flota de Batalla</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_RESOLVE_TITLE</Label>
-    <String>Resolve</String>
+    <String>Resolver</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_REPLAY_TITLE</Label>
-    <String>Replay</String>
+    <String>Repetición</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_SKIP_TITLE</Label>
-    <String>Skip</String>
+    <String>Saltar</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_PAUSE_TITLE</Label>
-    <String>Pause</String>
+    <String>Pausa</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_START_TITLE</Label>
-    <String>View Battle</String>
+    <String>Ver Batalla</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_SPEED_TITLE</Label>
-    <String>Speed 1X</String>
+    <String>Velocidad x1</String>
   </StringTable>
  
   <StringTable>
     <Label>BATTLE_VIEWER_CAMERA_TITLE</Label>
-    <String>Camera</String>
+    <String>Camara</String>
   </StringTable>
  
   <StringTable>
@@ -164,42 +164,42 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>NEWGAMELABEL</Label>
-    <String>New Game</String>
+    <String>Nuevo Juego</String>
   </StringTable>
  
   <StringTable>
     <Label>QUICKSTARTLABEL</Label>
-    <String>Quick Start</String>
+    <String>Inicio rápido</String>
   </StringTable>
  
   <StringTable>
     <Label>CONTINUEGAMELABEL</Label>
-    <String>Continue Game</String>
+    <String>Continuar Juego</String>
   </StringTable>
  
   <StringTable>
     <Label>MULTIPLAYERLABEL</Label>
-    <String>Multiplayer</String>
+    <String>Multijugador</String>
   </StringTable>
  
   <StringTable>
     <Label>METAVERSELABEL</Label>
-    <String>Metaverse</String>
+    <String>Metaverso</String>
   </StringTable>
 
 	<StringTable>
 		<Label>METAVERSE_SUMMARY_BUTTON</Label>
-		<String>Summary</String>
+		<String>Resumen</String>
 	</StringTable>
 
 	<StringTable>
 		<Label>METAVERSE_MATCH_HISTORY_BUTTON</Label>
-		<String>Match History</String>
+		<String>Historial de partidos</String>
 	</StringTable>
 
 	<StringTable>
 		<Label>METAVERSE_LADDERS_BUTTON</Label>
-		<String>Ladders</String>
+		<String>Escaleras</String>
 	</StringTable>
 
 	<StringTable>
@@ -209,219 +209,219 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>SCENARIOSLABEL</Label>
-    <String>Scenarios</String>
+    <String>Escenarios</String>
   </StringTable>
  
   <StringTable>
     <Label>LOADGAMELABEL</Label>
-    <String>Load Game</String>
+    <String>Cargar partida</String>
   </StringTable>
 	
 	<StringTable>
 		<Label>LOADMAPLABEL</Label>
-		<String>Load Map</String>
+		<String>Cargar Mapa</String>
 	</StringTable>
  
   <StringTable>
     <Label>SHIPDESIGNERLABEL</Label>
-    <String>Ship Designer</String>
+    <String>Diseñador de la nave</String>
   </StringTable>
  
   <StringTable>
     <Label>OPTIONSLABEL</Label>
-    <String>Options</String>
+    <String>Opciones</String>
   </StringTable>
  
   <StringTable>
     <Label>EXITLABEL</Label>
-    <String>Exit</String>
+    <String>Salir</String>
   </StringTable>
 
 	<StringTable>
 		<Label>FREEDLCLABEL</Label>
-		<String>FREE DLC!</String>
+		<String>DLC GRATIS!</String>
 	</StringTable>
 
 	<StringTable>
 		<Label>GETREWARDLABEL</Label>
-		<String>Get Reward</String>
+		<String>Conseguir recompensa</String>
 	</StringTable>
 
   <StringTable>
     <Label>DLCAVAILABLELABEL</Label>
-    <String>DLC Available</String>
+    <String>DLC Disponible</String>
   </StringTable>
  
   <StringTable>
     <Label>VERSIONSTRINGFORMAT</Label>
-    <String>Version {BUILDVERSIONSTRING} </String>
+    <String>Versión {BUILDVERSIONSTRING} </String>
   </StringTable>
  
   <!-- Startup Sceens -->
  
   <StringTable>
     <Label>GAME_SETTINGS_LABEL</Label>
-    <String>Game Settings</String>
+    <String>Configuraciones de juego</String>
   </StringTable>
  
   <StringTable>
     <Label>GAMESETTINGSTITLE</Label>
-    <String>Game Settings</String>
+    <String>Configuraciones de juego</String>
   </StringTable>
  
   <StringTable>
     <Label>CIVILIZATIONSETUPTITLE</Label>
-    <String>Choose Civilization</String>
+    <String>Elija Civilización</String>
   </StringTable>
  
   <StringTable>
     <Label>GALAXY_TYPE_LABEL</Label>
-    <String>Galaxy Type</String>
+    <String>Tipo de Galaxia</String>
   </StringTable>
  
   <StringTable>
     <Label>NUMOPPONENTSLABEL</Label>
-    <String>Opponents</String>
+    <String>Oponentes</String>
   </StringTable>
  
   <StringTable>
     <Label>CREATECUSTOMCIVLABEL</Label>
-    <String>Customize</String>
+    <String>Personaliza</String>
   </StringTable>
  
   <StringTable>
     <Label>GALAXY_TYPE_DESCRIPTION</Label>
-    <String>Set Galaxy Size and Shape</String>
+    <String>Tamaño de Galaxia y Forma</String>
   </StringTable>
  
   <StringTable>
     <Label>OPPONENTINTELLIGENCELABEL</Label>
-    <String>Opponent Intelligence</String>
+    <String>Inteligencia artificial</String>
   </StringTable>
  
   <StringTable>
     <Label>CIVILIZATIONNAMELABEL</Label>
-    <String>Civilization</String>
+    <String>Civilización</String>
   </StringTable>
  
   <StringTable>
     <Label>OPPONENTSETUPTITLE</Label>
-    <String>Opponent Setup</String>
+    <String>Configuración oponente</String>
   </StringTable>
  
   <StringTable>
     <Label>GALAXY_OPTIONS_LABEL</Label>
-    <String>Galaxy Options</String>
+    <String>Opciones de Galaxia</String>
   </StringTable>
  
   <StringTable>
     <Label>GALAXYDIFFICULTYLABEL</Label>
-    <String>Galaxy Difficulty</String>
+    <String>Dificultad de Galaxia</String>
   </StringTable>
  
   <StringTable>
     <Label>RANDOMEVENTSFREQUENCYLABEL</Label>
-    <String>Random Events</String>
+    <String>Eventos aleatorios</String>
   </StringTable>
  
   <StringTable>
     <Label>CREATECUSTOMOPPONENTLABEL</Label>
-    <String>Create Opponent</String>
+    <String>Crear oponente</String>
   </StringTable>
  
   <StringTable>
     <Label>MINORRACEFREQUENCYLABEL</Label>
-    <String>Minor Races</String>
+    <String>Razas menores</String>
   </StringTable>
  
   <StringTable>
     <Label>CIVILIZATIONLEADERLABEL</Label>
-    <String>Leader</String>
+    <String>Líder</String>
   </StringTable>
  
   <StringTable>
     <Label>SELECTEDOPPONENTSLABEL</Label>
-    <String>Selected Opponents</String>
+    <String>Opositores seleccionados</String>
   </StringTable>
  
   <StringTable>
     <Label>VICTORY_CONDITIONS_LABEL</Label>
-    <String>Victory Conditions</String>
+    <String>Condiciones de Victoria</String>
   </StringTable>
  
   <StringTable>
     <Label>PIRATESFREQUENCYLABEL</Label>
-    <String>Pirate Bases</String>
+    <String>Bases Pirata</String>
   </StringTable>
  
   <StringTable>
     <Label>STARTINGTECHLABEL</Label>
-    <String>Starting Techs</String>
+    <String>Tecnologias Iniciales</String>
   </StringTable>
  
   <StringTable>
     <Label>CIVILIZATIONSUMMARYLABEL</Label>
-    <String>Civilization Summary</String>
+    <String>Resumen Civilización</String>
   </StringTable>
  
   <StringTable>
     <Label>AVAILALBEOPPONENTSLABEL</Label>
-    <String>Available Opponents</String>
+    <String>Oponentes disponibles</String>
   </StringTable>
  
   <StringTable>
     <Label>VICTORY_CONDITIONS_DESCRIPTION</Label>
-    <String>How to Crush Your Foes</String>
+    <String>Cómo aplastar a tus enemigos</String>
   </StringTable>
  
   <StringTable>
     <Label>PLANETFREQUENCYSETTINGLABEL</Label>
-    <String>Planet Frequency</String>
+    <String>Frecuencia de planetas</String>
   </StringTable>
  
   <StringTable>
     <Label>STORMFREQUENCYSETTINGLABEL</Label>
-    <String>Storm Frequency</String>
+    <String>Frecuencia de Tormentas</String>
   </StringTable>
  
   <StringTable>
     <Label>HOSTILEENTITIESFREQUENCYLABEL</Label>
-    <String>Hostile Entities</String>
+    <String>Entidades hostiles</String>
   </StringTable>
  
   <StringTable>
     <Label>GALAXYSETTINGSTITLE</Label>
-    <String>Galaxy Settings</String>
+    <String>Ajustes de Galaxia</String>
   </StringTable>
  
   <StringTable>
     <Label>TECHRESEARCHRATELABEL</Label>
-    <String>Research Rate</String>
+    <String>Tasa de Investigación</String>
   </StringTable>
  
   <StringTable>
     <Label>LOADCUSTOMMAPBTNLABEL</Label>
-    <String>Load Map</String>
+    <String>Cargar Mapa</String>
   </StringTable>
 
 	<StringTable>
 		<Label>GETMAPSBTNLABEL</Label>
-		<String>Get Maps</String>
+		<String>Obtener Mapas</String>
 	</StringTable>
 
 	<StringTable>
 		<Label>UPLOADMAPSBTNLABEL</Label>
-		<String>Upload Maps</String>
+		<String>Subir Mapas</String>
 	</StringTable>
  
   <StringTable>
     <Label>GAME_SETTINGS_DESCRIPTION</Label>
-    <String>Customize Gameplay</String>
+    <String>Personalizar Gameplay</String>
   </StringTable>
  
   <StringTable>
     <Label>GAMEPACINGLABEL</Label>
-    <String>Game Pacing</String>
+    <String>Ritmo del juego</String>
   </StringTable>
  
   <StringTable>
@@ -431,162 +431,162 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>GALAXYSIZESETTINGLABEL</Label>
-    <String>Galaxy Size</String>
+    <String>Tamaño de Galaxia</String>
   </StringTable>
  
   <StringTable>
     <Label>OPPONENTS_DESCRIPTION</Label>
-    <String>Choose Your Neighbors</String>
+    <String>Elija sus vecinos</String>
   </StringTable>
  
   <StringTable>
     <Label>STARFREQUENCYSETTINGLABEL</Label>
-    <String>Star Frequency</String>
+    <String>Frecuencia de estrellas</String>
   </StringTable>
  
   <StringTable>
     <Label>STARDENSITYSETTINGLABEL</Label>
-    <String>Star Density</String>
+    <String>Densidad de la estrellas</String>
   </StringTable>
  
   <StringTable>
     <Label>HABITABLEPLANETFREQUENCYSETTINGLABEL</Label>
-    <String>Habitable Planet Frequency</String>
+    <String>Frecuencia de planetas habitables</String>
   </StringTable>
  
   <StringTable>
     <Label>ANOMALYFREQUENCYSETTINGLABEL</Label>
-    <String>Anomaly Frequency</String>
+    <String>Frecuencia de anomalías</String>
   </StringTable>
  
   <StringTable>
     <Label>CIVILIZATIONHOMEWORLDLABEL</Label>
-    <String>Homeworld</String>
+    <String>Planeta natal</String>
   </StringTable>
  
   <StringTable>
     <Label>GALAXY_OPTIONS_DESCRIPTION</Label>
-    <String>Customize Galaxy Makeup</String>
+    <String>Personalizar composicion Galaxia</String>
   </StringTable>
  
   <StringTable>
     <Label>GALAXYTYPESETTINGLABEL</Label>
-    <String>Type</String>
+    <String>Tipo</String>
   </StringTable>
  
   <StringTable>
     <Label>NEBULAFREQUENCYSETTINGLABEL</Label>
-    <String>Nebulae</String>
+    <String>Nebulosas</String>
   </StringTable>
  
   <StringTable>
     <Label>RIFTFREQUENCYSETTINGLABEL</Label>
-    <String>Interstellar Rifts</String>
+    <String>Grietas Interestelares</String>
   </StringTable>
  
   <StringTable>
     <Label>ADVANCED_SETTINGS_LABEL</Label>
-    <String>Advanced Settings</String>
+    <String>Ajustes avanzados</String>
   </StringTable>
 
   <StringTable>
     <Label>LOBBY_SETTINGS_LABEL</Label>
-    <String>Lobby Settings</String>
+    <String>Ajustes de vestíbulo</String>
   </StringTable>
 
   <StringTable>
     <Label>LOBBY_SETTINGS_NAME_LABEL</Label>
-    <String>Game Name</String>
+    <String>Nombre de partida</String>
   </StringTable>
 
   <StringTable>
     <Label>LOBBY_SETTINGS_PASSWORD_LABEL</Label>
-    <String>Password (Optional)</String>
+    <String>Clave (Opcional)</String>
   </StringTable>
 
   <StringTable>
     <Label>LOBBY_SETTINGS_PLAYERS_LABEL</Label>
-    <String>Number of Players:</String>
+    <String>Número de jugadores:</String>
   </StringTable>
 
 	<StringTable>
 		<Label>BUTTON_INVITEFRIENDS_LABEL</Label>
-		<String>Invite Friends</String>
+		<String>Invitar a amigos</String>
 	</StringTable>
  
   <StringTable>
     <Label>VICTORY_OPTIONS_LABEL</Label>
-    <String>Victory Options</String>
+    <String>Opciones de Victoria</String>
   </StringTable>
  
   <StringTable>
     <Label>Conquest_Description</Label>
-    <String>Crush your enemies and dominate the galaxy!</String>
+    <String>Aplastar a tus enemigos y dominar la galaxia!</String>
   </StringTable>
  
   <StringTable>
     <Label>Research_Description</Label>
-    <String>Unlock the ultimate technological breakthrough.</String>
+    <String>Desbloquear el último punto tecnológico.</String>
   </StringTable>
  
   <StringTable>
     <Label>Alliance_Description</Label>
-    <String>Use diplomacy to bring peace to the galaxy.</String>
+    <String>Utilice la diplomacia para llevar la paz a la galaxia.</String>
   </StringTable>
  
   <StringTable>
     <Label>Influence_Description</Label>
-    <String>No need to fight when your civilization is the best.</String>
+    <String>No hay necesidad de luchar cuando su civilización es la mejor.</String>
   </StringTable>
  
   <StringTable>
     <Label>Ascension_Description</Label>
-    <String>Reclaim Ascension Crystals and ascend to a higher plane.</String>
+    <String>Reclamar Cristales de ascensión y ascender a un plano superior.</String>
   </StringTable>
  
   <StringTable>
     <Label>TurnLimit_Description</Label>
-    <String>Defeat your foes before time runs out.</String>
+    <String>Derrota a tus enemigos antes de que acabe el tiempo.</String>
   </StringTable>
  
   <StringTable>
     <Label>AllowSurrender</Label>
-    <String>Disable AI Surrendering</String>
+    <String>Desactivar rendicion de la AI.</String>
   </StringTable>
  
   <StringTable>
     <Label>AllowSurrender_Description</Label>
-    <String>Your enemies will fight to the last breath.</String>
+    <String>Sus enemigos lucharán hasta el último aliento.</String>
   </StringTable>
  
   <StringTable>
     <Label>BlindExploration</Label>
-    <String>Blind Exploration</String>
+    <String>Exploración a ciegas</String>
   </StringTable>
  
   <StringTable>
     <Label>BlindExploration_Description</Label>
-    <String>Do not show unknown stars on strategic map.</String>
+    <String>No mostrar estrellas desconocidas en el mapa estratégico.</String>
   </StringTable>
  
   <StringTable>
     <Label>MegaEvents</Label>
-    <String>Disable Mega Events</String>
+    <String>Desactivar Mega Eventos</String>
   </StringTable>
  
   <StringTable>
     <Label>MegaEvents_Description</Label>
-    <String>Galaxy-wide Mega Events will not occur.</String>
+    <String>No ocurrirán Mega Eventos en la Galaxia.</String>
   </StringTable>
  
   <StringTable>
     <Label>SuperAbilities</Label>
-    <String>Disable Super Abilities</String>
+    <String>Desactivar Súper Habilidades</String>
   </StringTable>
  
   <StringTable>
     <Label>SuperAbilities_Description</Label>
-    <String>Players cannot use their Super Abilities.</String>
+    <String>Los jugadores no pueden usar sus Super habilidades.</String>
   </StringTable>
  
   <StringTable>
